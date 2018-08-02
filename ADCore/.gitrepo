@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/areaDetector/ADCore.git
+	branch = master
+	commit = 8ccdce7d8106bf255a099bb9cbc658aa8701e5a6
+	parent = 84aa3d57df58a19e22e36c06724d5221e503a60d
+	method = merge
+	cmdver = 0.4.0
