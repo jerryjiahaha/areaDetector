@@ -72,6 +72,8 @@ _ad_modules = ("ADSimDetector",
     "ADViewers",
     "ADAndor",
     "ADPvCam",
+    "ADPluginEdge",
+    "NDDriverStdArrays",
 )
 
 ad_modules_def = """
