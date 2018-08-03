@@ -1,9 +1,6 @@
 [submodule "ADADSC"]
 	path = ADADSC
 	url = https://github.com/areaDetector/ADADSC.git
-[submodule "ADAndor"]
-	path = ADAndor
-	url = https://github.com/areaDetector/ADAndor.git
 [submodule "ADAndor3"]
 	path = ADAndor3
 	url = https://github.com/areaDetector/ADAndor3.git
