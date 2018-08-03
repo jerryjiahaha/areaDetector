@@ -64,9 +64,6 @@
 [submodule "ADProsilica"]
 	path = ADProsilica
 	url = https://github.com/areaDetector/ADProsilica.git
-[submodule "ADPvCam"]
-	path = ADPvCam
-	url = https://github.com/areaDetector/ADPvCam.git
 [submodule "ADQImaging"]
 	path = ADQImaging
 	url = https://github.com/areaDetector/ADQImaging.git
