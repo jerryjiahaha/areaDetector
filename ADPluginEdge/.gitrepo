@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/areaDetector/ADPluginEdge.git
+	branch = master
+	commit = 03afb595bc29675b04781ff2192e19113713dc3f
+	parent = 9493d698a905aba7a7bc23da241e5452302e7f8c
+	method = merge
+	cmdver = 0.4.0
