@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/areaDetector/NDDriverStdArrays
+	branch = master
+	commit = bd11f88c55dabd746bbb0620eba9400079ae9e08
+	parent = 73630123155fff72d964a03cd904ad38e7fed682
+	method = merge
+	cmdver = 0.4.0
