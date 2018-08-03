@@ -4,9 +4,9 @@
 ; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
 ;
 [subrepo]
-	remote = https://github.com/areaDetector/ADAndor.git
+	remote = https://github.com/jerryjiahaha/ADAndor.git
 	branch = master
-	commit = 7924393d04ac478c2ec0227cc5edca879a73b13d
-	parent = e57caa53e6497fa634cc3eecb16a16c3988f4a84
+	commit = a0860fed15f7c0122aea8f7726348ec4bc4bc6f6
+	parent = 5630001685c0566256ca1fcc2951e54a5748c1ab
 	method = merge
 	cmdver = 0.4.0
