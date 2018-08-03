@@ -85,9 +85,6 @@
 [submodule "ADnED"]
 	path = ADnED
 	url = https://github.com/areaDetector/ADnED.git
-[submodule "NDDriverStdArrays"]
-	path = NDDriverStdArrays
-	url = https://github.com/areaDetector/NDDriverStdArrays.git
 [submodule "aravisGigE"]
 	path = aravisGigE
 	url = https://github.com/areaDetector/aravisGigE.git
