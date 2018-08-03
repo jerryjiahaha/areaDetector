@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/areaDetector/ADPvCam.git
+	branch = master
+	commit = 51f3057d9a23c0d3cd8fab41774a8abc18839c0c
+	parent = d8fada112a5a8164104e32126b6ff0c4650b7a17
+	method = merge
+	cmdver = 0.4.0
