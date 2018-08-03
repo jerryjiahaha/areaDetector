@@ -68,7 +68,11 @@ _mod_map = {
 }
 _depend_path="\n".join([ f"{K.upper()}={V}" for K, V in _mod_map.items() ]) + "\n"
 
-_ad_modules = ("ADSimDetector",)
+_ad_modules = ("ADSimDetector",
+    "ADViewers",
+    "ADAndor",
+    "ADPvCam",
+)
 
 ad_modules_def = """
 AREA_DETECTOR={AD_PATH}
